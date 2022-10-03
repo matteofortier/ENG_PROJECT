@@ -2,6 +2,12 @@
 
 *Matteo Fortier*
 
+![app1.png](app1.png)
+![app2.png](app2.png)
+![pie_chart.png](pie_chart.png)
+![stacked_area.png](stacked_area.png)
+
+
 ## Design
 
 Today, many people dream of becoming a sucessful game streamer, whether it be on twitch or some other game streaming platform. Some want it as their dream job, while some simply enjoy streaming gaming content and entertainment to many people around the world. However, it is harder than ever to become successful as the market becomes more and more saturated. 9 MILLION unique creators streaming each month, 109,400 average concurrent streamers. What if there was a analytics dashboard that could help starting streamers know their platform and their market better, allowing them to get on trends early, and grow faster as a streamer?
