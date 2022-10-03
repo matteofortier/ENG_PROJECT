@@ -2,10 +2,10 @@
 
 *Matteo Fortier*
 
-![app1.png](</app1.png>)
-![app2.png](</app2.png>)
-![pie_chart.png](</pie_chart.png>)
-![stacked_area.png](</stacked_area.png>)
+![app1.png](</images/app1.png>)
+![app2.png](</images/app2.png>)
+![pie_chart.png](</images/pie_chart.png>)
+![stacked_area.png](</images/stacked_area.png>)
 
 
 ## Design
